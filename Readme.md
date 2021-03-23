@@ -1,1 +1,1 @@
-Precompiled gfortran libraries for Windows
+Precompiled gfortran libraries for Windows using GNU Fortran (GCC) 11.0.0 20200927 from equation.com, following the instructions of Yutaka Masuda at https://masuday.github.io/fortran_tutorial/external.html .
